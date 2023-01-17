@@ -1,0 +1,15 @@
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\Task008\bin\Debug\net6.0\Task008.exe
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\Task008\bin\Debug\net6.0\Task008.deps.json
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\Task008\bin\Debug\net6.0\Task008.runtimeconfig.json
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\Task008\bin\Debug\net6.0\Task008.dll
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\Task008\bin\Debug\net6.0\Task008.pdb
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\Task008\obj\Debug\net6.0\Task008.csproj.AssemblyReference.cache
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\Task008\obj\Debug\net6.0\Task008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\Task008\obj\Debug\net6.0\Task008.AssemblyInfoInputs.cache
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\Task008\obj\Debug\net6.0\Task008.AssemblyInfo.cs
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\Task008\obj\Debug\net6.0\Task008.csproj.CoreCompileInputs.cache
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\Task008\obj\Debug\net6.0\Task008.dll
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\Task008\obj\Debug\net6.0\refint\Task008.dll
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\Task008\obj\Debug\net6.0\Task008.pdb
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\Task008\obj\Debug\net6.0\Task008.genruntimeconfig.cache
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\Task008\obj\Debug\net6.0\ref\Task008.dll
