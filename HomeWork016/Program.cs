@@ -5,7 +5,7 @@
 Console.Clear();
 int[] array = new int[5];
 int max = -99;
-int min = 0;
+int min = 99;
 
 for (int i = 0; i < array.Length; i++)
 {
