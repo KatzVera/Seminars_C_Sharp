@@ -1,0 +1,15 @@
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\HomeWork022\bin\Debug\net6.0\HomeWork022.exe
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\HomeWork022\bin\Debug\net6.0\HomeWork022.deps.json
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\HomeWork022\bin\Debug\net6.0\HomeWork022.runtimeconfig.json
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\HomeWork022\bin\Debug\net6.0\HomeWork022.dll
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\HomeWork022\bin\Debug\net6.0\HomeWork022.pdb
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\HomeWork022\obj\Debug\net6.0\HomeWork022.csproj.AssemblyReference.cache
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\HomeWork022\obj\Debug\net6.0\HomeWork022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\HomeWork022\obj\Debug\net6.0\HomeWork022.AssemblyInfoInputs.cache
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\HomeWork022\obj\Debug\net6.0\HomeWork022.AssemblyInfo.cs
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\HomeWork022\obj\Debug\net6.0\HomeWork022.csproj.CoreCompileInputs.cache
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\HomeWork022\obj\Debug\net6.0\HomeWork022.dll
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\HomeWork022\obj\Debug\net6.0\refint\HomeWork022.dll
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\HomeWork022\obj\Debug\net6.0\HomeWork022.pdb
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\HomeWork022\obj\Debug\net6.0\HomeWork022.genruntimeconfig.cache
+C:\Users\katzv\Desktop\GB\Seminars_C#\Seminars_C_Sharp\HomeWork022\obj\Debug\net6.0\ref\HomeWork022.dll
